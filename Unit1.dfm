@@ -1,6 +1,6 @@
 object Form1: TForm1
-  Left = 256
-  Top = 155
+  Left = 351
+  Top = 173
   BorderStyle = bsDialog
   Caption = 'Keep your eyesight!'
   ClientHeight = 362
@@ -17,11 +17,11 @@ object Form1: TForm1
   PixelsPerInch = 96
   TextHeight = 19
   object Label1: TLabel
-    Left = 14
+    Left = 84
     Top = 128
-    Width = 557
+    Width = 415
     Height = 40
-    Caption = #1055#1054#1056#1040' '#1044#1040#1058#1068' '#1043#1051#1040#1047#1040#1052' '#1054#1058#1044#1054#1061#1053#1059#1058#1068'!'
+    Caption = 'GIVE YOUR EYES A REST!'
     Font.Charset = RUSSIAN_CHARSET
     Font.Color = clWindowText
     Font.Height = -35
@@ -34,7 +34,7 @@ object Form1: TForm1
     Top = 192
     Width = 105
     Height = 41
-    Caption = #1054#1050
+    Caption = 'OK'
     TabOrder = 0
     OnClick = Button1Click
   end
@@ -43,7 +43,7 @@ object Form1: TForm1
     Top = 200
     Width = 121
     Height = 25
-    Caption = #1053#1077' '#1087#1086#1082#1072#1079#1099#1074#1072#1090#1100
+    Caption = 'Turn off'
     TabOrder = 1
     OnClick = Button2Click
   end
