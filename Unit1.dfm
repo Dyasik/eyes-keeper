@@ -30,17 +30,17 @@ object Form1: TForm1
     ParentFont = False
   end
   object Button1: TButton
-    Left = 152
-    Top = 192
-    Width = 105
-    Height = 41
-    Caption = 'OK'
+    Left = 224
+    Top = 208
+    Width = 137
+    Height = 49
+    Caption = 'START'
     TabOrder = 0
     OnClick = Button1Click
   end
   object Button2: TButton
-    Left = 312
-    Top = 200
+    Left = 456
+    Top = 328
     Width = 121
     Height = 25
     Caption = 'Turn off'
