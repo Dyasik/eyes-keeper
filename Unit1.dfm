@@ -17,11 +17,11 @@ object Form1: TForm1
   PixelsPerInch = 96
   TextHeight = 19
   object Label1: TLabel
-    Left = 84
+    Left = 68
     Top = 128
-    Width = 415
+    Width = 471
     Height = 40
-    Caption = 'GIVE YOUR EYES A REST!'
+    Caption = 'TIME TO RELAX YOUR EYES!'
     Font.Charset = RUSSIAN_CHARSET
     Font.Color = clWindowText
     Font.Height = -35
@@ -30,17 +30,17 @@ object Form1: TForm1
     ParentFont = False
   end
   object Button1: TButton
-    Left = 152
-    Top = 192
-    Width = 105
-    Height = 41
-    Caption = 'OK'
+    Left = 224
+    Top = 208
+    Width = 137
+    Height = 49
+    Caption = 'START'
     TabOrder = 0
     OnClick = Button1Click
   end
   object Button2: TButton
-    Left = 312
-    Top = 200
+    Left = 456
+    Top = 328
     Width = 121
     Height = 25
     Caption = 'Turn off'
