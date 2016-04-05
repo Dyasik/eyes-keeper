@@ -17,11 +17,11 @@ object Form1: TForm1
   PixelsPerInch = 96
   TextHeight = 19
   object Label1: TLabel
-    Left = 84
+    Left = 68
     Top = 128
-    Width = 415
+    Width = 471
     Height = 40
-    Caption = 'GIVE YOUR EYES A REST!'
+    Caption = 'TIME TO RELAX YOUR EYES!'
     Font.Charset = RUSSIAN_CHARSET
     Font.Color = clWindowText
     Font.Height = -35
