@@ -1,3 +1,3 @@
 # Eyes Keeper
 #### An utility which helps you to keep your eyesight
-    no description needed
+Just add this to your StartUp and it will remind you about giving your eyes a rest every hour!
