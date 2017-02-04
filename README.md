@@ -6,3 +6,7 @@ You may set your own delay time (default - 1 hour) by pressing a "cog" icon when
 
 ### Warning! If you have an active full-screen application (e.g. you are playing DOTA2) it will be minimized when the EyesKeeper shows up!
 So make sure you close EyeKeeper before you play some competitive matchmaking (though I think it won't really disturb you in singleplayer/non-competitive games).
+
+This is how it looks like:
+
+![Screenshot](/ek.png)
